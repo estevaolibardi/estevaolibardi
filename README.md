@@ -23,7 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevãolibardi/)](https://www.linkedin.com/in/estevãolibardi/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   
 </div>
-<h2 align="start">:green_apple: &nbsp;Tech Stack</h2>
+<h2 align="start">:small_blue_diamond: &nbsp;Tech Stack</h2>
 
 <!-- More badges at: https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
 <div align="left">
